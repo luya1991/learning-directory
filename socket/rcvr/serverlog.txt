@@ -1,0 +1,759 @@
+socket creating succeeded!!
+binding socket && addrinfo succeeded!!
+server is now listening...
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 9
+a thread has finished its task, exiting...
+number of running threads: 8
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 7
+a thread has finished its task, exiting...
+number of running threads: 6
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 5
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 4
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 3
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 2
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 1
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 1
+received a message from client...
+message content: Hello server!!
+a thread has been created successfully!!
+number of running threads: 2
+a thread has finished its task, exiting...
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 9
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 8
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 7
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 6
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 5
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 4
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 3
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 2
+a thread has finished its task, exiting...
+number of running threads: 1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 9
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 8
+a thread has finished its task, exiting...
+number of running threads: 7
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 6
+a thread has finished its task, exiting...
+number of running threads: 5
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 4
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 3
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 2
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 3
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 2
+a thread has finished its task, exiting...
+number of running threads: 1
+received a message from client...
+message content: Hello server!!
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 2
+received a connection from: 127.0.0.1
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 9
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 8
+a thread has finished its task, exiting...
+number of running threads: 7
+a thread has finished its task, exiting...
+number of running threads: 6
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 5
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 4
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 3
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 2
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 9
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 8
+a thread has finished its task, exiting...
+number of running threads: 7
+a thread has finished its task, exiting...
+number of running threads: 6
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 5
+a thread has finished its task, exiting...
+number of running threads: 4
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 3
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 2
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 5
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 4
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 5
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 4
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+a thread has finished its task, exiting...
+number of running threads: 9
+a thread has finished its task, exiting...
+number of running threads: 8
+a thread has finished its task, exiting...
+number of running threads: 7
+a thread has finished its task, exiting...
+number of running threads: 6
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 5
+a thread has finished its task, exiting...
+number of running threads: 4
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 3
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 2
+a thread has finished its task, exiting...
+number of running threads: 1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 9
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 8
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 7
+a thread has finished its task, exiting...
+number of running threads: 6
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 5
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 4
+a thread has finished its task, exiting...
+number of running threads: 3
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 2
+a thread has finished its task, exiting...
+number of running threads: 1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 1
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+received a connection from: 127.0.0.1
+a thread has been created successfully!!
+number of running threads: 3
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+a thread has finished its task, exiting...
+number of running threads: 9
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 8
+a thread has finished its task, exiting...
+number of running threads: 7
+a thread has finished its task, exiting...
+number of running threads: 6
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 5
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 4
+a thread has finished its task, exiting...
+number of running threads: 3
+a thread has finished its task, exiting...
+number of running threads: 2
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 1
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 0
+a thread has been created successfully!!
+number of running threads: 1
+a thread has been created successfully!!
+number of running threads: 2
+a thread has been created successfully!!
+number of running threads: 3
+a thread has been created successfully!!
+number of running threads: 4
+a thread has been created successfully!!
+number of running threads: 5
+a thread has been created successfully!!
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 9
+received a connection from: 127.0.0.1
+received a message from client...
+message content: Hello server!!
+received a connection from: 127.0.0.1
+a thread has finished its task, exiting...
+number of running threads: 8
+received a message from client...
+message content: Hello server!!
+received a message from client...
+message content: Hello server!!
+a thread has finished its task, exiting...
+number of running threads: 7
+a thread has finished its task, exiting...
+number of running threads: 6
+a thread has been created successfully!!
+number of running threads: 7
+a thread has been created successfully!!
+number of running threads: 8
+a thread has been created successfully!!
+number of running threads: 9
+a thread has been created successfully!!
+number of running threads: 10
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...
+running threads have reached the maximum number!!
+waiting for a thread to finish its work...

@@ -1,0 +1,2 @@
+SOURCES += \
+    client.cpp

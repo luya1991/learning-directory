@@ -1,0 +1,25 @@
+
+2013-12-4
+
+here is a brand new text, and i am going to bullshit here for some while. 
+
+it is going to be used on some socket sending test.
+
+hello world!! oh, my god!! what the fuck is that?
+
+hey, what is your name? i am lilei. oh, i see, i am hanmeimei,
+
+2014-4-7
+
+wo cao, wo shi zai bu zhi dao wei shen me zhe ge pi dong xi hui fa song 
+
+ke wu de zi fu chuan jie shu fu hui lai.. damn it..
+
+ke wu de zi fu chuan jie shu fu nong hai nong bu diao, gao de wo hen shi
+
+nao huo!!
+
+ma de, ben lai jin tian ying gai kai shi xie select() le, jie guo shi jian
+
+quan dou xiao hao zai gai chapter5 de dai ma shang mian le.. sucks..
+

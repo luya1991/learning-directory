@@ -1,0 +1,73 @@
+genius@genius-laptop:~/workspace/proj/volatile$ qmake ; make
+g++ -c -pipe -O2 -Wall -W -D_REENTRANT -DQT_WEBKIT -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/share/qt4/mkspecs/linux-g++ -I. -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4 -I. -o main.o main.cpp
+main.cpp:9:6: 警告： 未使用的参数‘signo’ [-Wunused-parameter]
+g++ -Wl,-O1 -o volatile main.o    -L/usr/lib/i386-linux-gnu -lQtGui -lQtCore -lpthread 
+genius@genius-laptop:~/workspace/proj/volatile$ 
+genius@genius-laptop:~/workspace/proj/volatile$ 
+genius@genius-laptop:~/workspace/proj/volatile$ ls
+main.cpp  main.o  Makefile  volatile  volatile.pro  volatile.pro.user
+genius@genius-laptop:~/workspace/proj/volatile$ ./volatile 
+get a alarm signal
+t=9
+get a alarm signal
+t=8
+get a alarm signal
+t=7
+get a alarm signal
+t=6
+get a alarm signal
+t=5
+get a alarm signal
+t=4
+get a alarm signal
+t=3
+get a alarm signal
+t=2
+get a alarm signal
+t=1
+get a alarm signal
+t=0
+get a alarm signal
+t=-1
+get a alarm signal
+t=-2
+get a alarm signal
+t=-3
+get a alarm signal
+t=-4
+get a alarm signal
+t=-5
+get a alarm signal
+t=-6
+get a alarm signal
+t=-7
+get a alarm signal
+t=-8
+^C
+genius@genius-laptop:~/workspace/proj/volatile$ qmake ; make
+g++ -c -pipe -O2 -Wall -W -D_REENTRANT -DQT_WEBKIT -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/share/qt4/mkspecs/linux-g++ -I. -I/usr/include/qt4/QtCore -I/usr/include/qt4/QtGui -I/usr/include/qt4 -I. -o main.o main.cpp
+main.cpp:9:6: 警告： 未使用的参数‘signo’ [-Wunused-parameter]
+g++ -Wl,-O1 -o volatile main.o    -L/usr/lib/i386-linux-gnu -lQtGui -lQtCore -lpthread 
+genius@genius-laptop:~/workspace/proj/volatile$ ./volatile 
+get a alarm signal
+t=9
+get a alarm signal
+t=8
+get a alarm signal
+t=7
+get a alarm signal
+t=6
+get a alarm signal
+t=5
+get a alarm signal
+t=4
+get a alarm signal
+t=3
+get a alarm signal
+t=2
+get a alarm signal
+t=1
+get a alarm signal
+t=0
+genius@genius-laptop:~/workspace/proj/volatile$ 
+

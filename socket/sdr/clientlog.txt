@@ -1,0 +1,4 @@
+sending socket creating succeeded!!
+connecting sever succeeded!!
+now sending file to server...
+sending file content succeeded!!
